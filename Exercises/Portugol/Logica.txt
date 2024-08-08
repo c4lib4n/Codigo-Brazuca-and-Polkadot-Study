@@ -1,0 +1,596 @@
+Exercise 1
+
+programa {
+  funcao inicio() {
+    
+    escreva("Hello World")
+
+  }
+}
+
+
+Exercise 2 
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+  escreva("Digite o segundo numero: ")
+  leia(numero2)
+
+   resultado = numero1 + numero2
+
+   escreva("A soma dos numeros e: ", resultado)
+  }
+}
+
+
+Exercise 3
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+  escreva("Digite o segundo numero: ")
+  leia(numero2)
+
+   resultado = numero1 + numero2
+
+   escreva("A soma dos numeros e: ", resultado)
+  }
+}
+
+
+Exercise 4
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, numero3, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+ escreva("Digite o segundo numero: ")
+  leia(numero2)
+  
+ escreva("Digite o terceiro numero: ")
+  leia(numero3)
+
+resultado = (numero1 + numero2 + numero3) / 3
+
+escreva("A media dos numeros e: ", resultado)
+
+  }
+}
+
+
+Exercise 5
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, numero3, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+ escreva("Digite o segundo numero: ")
+  leia(numero2)
+  
+ escreva("Digite o terceiro numero: ")
+  leia(numero3)
+
+resultado = (numero1 + numero2 + numero3) / 3
+
+escreva("A media dos numeros e: ", resultado)
+
+  }
+}
+
+
+Exercise 6
+
+programa {
+  funcao inicio() {
+    inteiro numero 
+
+    escreva("Digite um numero para ver sua tabuada: ")
+    leia(numero)
+
+    para(inteiro i = 1; i <= 10; i++){
+      escreva(numero, " x ", i, " = ", numero * i, "\n")
+    }  
+  
+  }
+}
+
+
+Exercise 7
+
+programa {
+  funcao inicio() {
+    inteiro numero 
+
+    escreva("Digite um numero para ver sua tabuada: ")
+    leia(numero)
+
+    para(inteiro i = 1; i <= 10; i++){
+      escreva(numero, " x ", i, " = ", numero * i, "\n")
+    }  
+  
+  }
+}
+
+Exercise 1
+
+programa {
+  funcao inicio() {
+    
+    escreva("Hello World")
+
+  }
+}
+
+
+Exercise 2 
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+  escreva("Digite o segundo numero: ")
+  leia(numero2)
+
+   resultado = numero1 + numero2
+
+   escreva("A soma dos numeros e: ", resultado)
+  }
+}
+
+
+Exercise 3
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+  escreva("Digite o segundo numero: ")
+  leia(numero2)
+
+   resultado = numero1 + numero2
+
+   escreva("A soma dos numeros e: ", resultado)
+  }
+}
+
+
+Exercise 4
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, numero3, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+ escreva("Digite o segundo numero: ")
+  leia(numero2)
+  
+ escreva("Digite o terceiro numero: ")
+  leia(numero3)
+
+resultado = (numero1 + numero2 + numero3) / 3
+
+escreva("A media dos numeros e: ", resultado)
+
+  }
+}
+
+
+Exercise 5
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, numero3, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+ escreva("Digite o segundo numero: ")
+  leia(numero2)
+  
+ escreva("Digite o terceiro numero: ")
+  leia(numero3)
+
+resultado = (numero1 + numero2 + numero3) / 3
+
+escreva("A media dos numeros e: ", resultado)
+
+  }
+}
+
+
+Exercise 6
+
+programa {
+  funcao inicio() {
+    inteiro numero 
+
+    escreva("Digite um numero para ver sua tabuada: ")
+    leia(numero)
+
+    para(inteiro i = 1; i <= 10; i++){
+      escreva(numero, " x ", i, " = ", numero * i, "\n")
+    }  
+  
+  }
+}
+
+
+Exercise 7
+
+programa {
+  funcao inicio() {
+    inteiro numero 
+
+    escreva("Digite um numero para ver sua tabuada: ")
+    leia(numero)
+
+    para(inteiro i = 1; i <= 10; i++){
+      escreva(numero, " x ", i, " = ", numero * i, "\n")
+    }  
+  
+  }
+}
+
+Exercise 1
+
+programa {
+  funcao inicio() {
+    
+    escreva("Hello World")
+
+  }
+}
+
+
+Exercise 2 
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+  escreva("Digite o segundo numero: ")
+  leia(numero2)
+
+   resultado = numero1 + numero2
+
+   escreva("A soma dos numeros e: ", resultado)
+  }
+}
+
+
+Exercise 3
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+  escreva("Digite o segundo numero: ")
+  leia(numero2)
+
+   resultado = numero1 + numero2
+
+   escreva("A soma dos numeros e: ", resultado)
+  }
+}
+
+
+Exercise 4
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, numero3, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+ escreva("Digite o segundo numero: ")
+  leia(numero2)
+  
+ escreva("Digite o terceiro numero: ")
+  leia(numero3)
+
+resultado = (numero1 + numero2 + numero3) / 3
+
+escreva("A media dos numeros e: ", resultado)
+
+  }
+}
+
+
+Exercise 5
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, numero3, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+ escreva("Digite o segundo numero: ")
+  leia(numero2)
+  
+ escreva("Digite o terceiro numero: ")
+  leia(numero3)
+
+resultado = (numero1 + numero2 + numero3) / 3
+
+escreva("A media dos numeros e: ", resultado)
+
+  }
+}
+
+
+Exercise 6
+
+programa {
+  funcao inicio() {
+    inteiro numero 
+
+    escreva("Digite um numero para ver sua tabuada: ")
+    leia(numero)
+
+    para(inteiro i = 1; i <= 10; i++){
+      escreva(numero, " x ", i, " = ", numero * i, "\n")
+    }  
+  
+  }
+}
+
+
+Exercise 7
+
+programa {
+  funcao inicio() {
+    inteiro numero 
+
+    escreva("Digite um numero para ver sua tabuada: ")
+    leia(numero)
+
+    para(inteiro i = 1; i <= 10; i++){
+      escreva(numero, " x ", i, " = ", numero * i, "\n")
+    }  
+  
+  }
+}
+
+
+kkkkkkk
+
+Exercise 1
+
+programa {
+  funcao inicio() {
+    
+    escreva("Hello World")
+
+  }
+}
+
+
+Exercise 2 
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+  escreva("Digite o segundo numero: ")
+  leia(numero2)
+
+   resultado = numero1 + numero2
+
+   escreva("A soma dos numeros e: ", resultado)
+  }
+}
+
+
+Exercise 3
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+  escreva("Digite o segundo numero: ")
+  leia(numero2)
+
+   resultado = numero1 + numero2
+
+   escreva("A soma dos numeros e: ", resultado)
+  }
+}
+
+
+Exercise 4
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, numero3, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+ escreva("Digite o segundo numero: ")
+  leia(numero2)
+  
+ escreva("Digite o terceiro numero: ")
+  leia(numero3)
+
+resultado = (numero1 + numero2 + numero3) / 3
+
+escreva("A media dos numeros e: ", resultado)
+
+  }
+}
+
+
+Exercise 5
+
+programa {
+  funcao inicio() {
+    
+   real numero1, numero2, numero3, resultado
+
+  escreva("Digite o primeiro numero: ")
+  leia(numero1)
+
+ escreva("Digite o segundo numero: ")
+  leia(numero2)
+  
+ escreva("Digite o terceiro numero: ")
+  leia(numero3)
+
+resultado = (numero1 + numero2 + numero3) / 3
+
+escreva("A media dos numeros e: ", resultado)
+
+  }
+}
+
+
+Exercise 6
+
+programa {
+  funcao inicio() {
+    inteiro numero 
+
+    escreva("Digite um numero para ver sua tabuada: ")
+    leia(numero)
+
+    para(inteiro i = 1; i <= 10; i++){
+      escreva(numero, " x ", i, " = ", numero * i, "\n")
+    }  
+  
+  }
+}
+
+
+Exercise 7
+
+programa {
+  funcao inicio() {
+    inteiro numero 
+
+    escreva("Digite um numero para ver sua tabuada: ")
+    leia(numero)
+
+    para(inteiro i = 1; i <= 10; i++){
+      escreva(numero, " x ", i, " = ", numero * i, "\n")
+    }  
+  
+  }
+}
+
+
+Exercise 8
+
+programa {
+  funcao inicio() {
+    inteiro ano
+    escreva("Digite o ano: ")
+    leia(ano)
+    se(ano % 4 == 0){
+      se(ano % 100 == 0){
+        se(ano % 400 == 0){
+          escreva("O ano e bissexto")
+        }senao{
+          escreva("O ano nao e bissexto")
+        }
+      }senao{
+        escreva("O ano e bissexto")
+      }
+    }senao{
+      escreva("O ano nao e bissexto")
+    }
+  }
+}
+
+
+Exercise 9
+
+programa {
+  funcao inicio() {
+    inteiro numero, fatorial =1
+    escreva ("Digite um numero inteiro positivo: ")
+    leia(numero)
+
+    para(inteiro i = 1; i <= numero; i++){
+      fatorial = fatorial * i
+    }
+
+    escreva("O fatorial de ", numero, " e ", fatorial)
+
+  }
+}
+
+
+Exercise 10
+
+programa {
+  funcao inicio() {
+    inteiro numero, contador = 0
+
+    para(inteiro i =0; i <= 5; i++){
+      escreva("Digite o numero: ", i, " : ")
+      leia(numero)
+
+      se(numero % 2 == 0){
+        contador++
+      }
+    }
+
+    escreva("Voce digitou: ", contador, " numeros positivos.")
+
+  }
+}
+
+
+
