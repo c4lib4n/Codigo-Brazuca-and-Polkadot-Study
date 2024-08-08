@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10962431-5dd5-4980-a7f4-24d0417109e7" name="Changes" comment="FIFO">
-      <change afterPath="$PROJECT_DIR$/linear_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Python/Exercise 1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Python/Exercise 2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Python/Exercise 3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Python/Exercise 4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Python/Exercise 5/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Python/Exercise 6/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +53,7 @@
     "Python.Pilhas.executor": "Run",
     "Python.linear_search.executor": "Run",
     "Python.listas_Encadeadas.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Laptop",
@@ -75,6 +83,7 @@
       <workItem from="1723063122859" duration="760000" />
       <workItem from="1723099050892" duration="218000" />
       <workItem from="1723099439394" duration="10604000" />
+      <workItem from="1723148372660" duration="1905000" />
     </task>
     <task id="LOCAL-00001" summary="Stack exemple">
       <option name="closed" value="true" />
@@ -120,6 +129,7 @@
     <SUITE FILE_PATH="coverage/Python$linear_search.coverage" NAME="linear_search Coverage Results" MODIFIED="1723127307125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$listas_Encadeadas.coverage" NAME="listas_Encadeadas Coverage Results" MODIFIED="1723102466590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Array.coverage" NAME="Array Coverage Results" MODIFIED="1723099685525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Codigo_Brazuca_and_Polkadot_Study$main.coverage" NAME="main Coverage Results" MODIFIED="1723150053501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises/Python/Exercise 5" />
     <SUITE FILE_PATH="coverage/pythonProject$Array.coverage" NAME="Array Coverage Results" MODIFIED="1723063867866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
