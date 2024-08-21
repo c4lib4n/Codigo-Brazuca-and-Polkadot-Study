@@ -1,13 +1,8 @@
 programa {
-  funcao inicio() {
-    inteiro numero 
-
-    escreva("Digite um numero para ver sua tabuada: ")
-    leia(numero)
-
-    para(inteiro i = 1; i <= 10; i++){
-      escreva(numero, " x ", i, " = ", numero * i, "\n")
-    }  
-  
-  }
+	funcao inicio() {
+		para(inteiro i = 10; i >= 0; i--) {
+			escreva(i, "\n")
+		}
+		escreva("Contagem regressiva completa!")
+	}
 }

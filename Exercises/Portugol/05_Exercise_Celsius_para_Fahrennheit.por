@@ -1,20 +1,11 @@
 programa {
-  funcao inicio() {
-    
-   real numero1, numero2, numero3, resultado
+	funcao inicio() {
+		real celsius, fahrenheit
 
-  escreva("Digite o primeiro numero: ")
-  leia(numero1)
+		escreva("Digite o valor em Celsius: ")
+		leia(celsius)
 
- escreva("Digite o segundo numero: ")
-  leia(numero2)
-  
- escreva("Digite o terceiro numero: ")
-  leia(numero3)
-
-resultado = (numero1 + numero2 + numero3) / 3
-
-escreva("A media dos numeros e: ", resultado)
-
-  }
+		fahrenheit = (celsius * 9 / 5) + 32
+		escreva("O valor em Fahrenheit é: " + fahrenheit)
+	}
 }

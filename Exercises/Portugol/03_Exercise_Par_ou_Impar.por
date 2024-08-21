@@ -1,16 +1,14 @@
 programa {
-  funcao inicio() {
-    
-   real numero1, numero2, resultado
+	funcao inicio() {
+		inteiro numero
 
-  escreva("Digite o primeiro numero: ")
-  leia(numero1)
+		escreva("Digite um numero: ")
+		leia(numero)
 
-  escreva("Digite o segundo numero: ")
-  leia(numero2)
-
-   resultado = numero1 + numero2
-
-   escreva("A soma dos numeros e: ", resultado)
-  }
+		se (numero % 2 == 0) {
+			escreva("O numero " + numero + " é par.")
+		} senao {
+			escreva("O numero " + numero + " é impar.")
+		}
+	}
 }
